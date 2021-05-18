@@ -15,5 +15,6 @@ const aboutMe = {
    }    
 };
 ```
-<h3>To learn</>
+<h3>🛠To learn🛠</>
+   
  <p> Redux | TypeScript | FireBase</p>
