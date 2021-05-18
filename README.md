@@ -16,4 +16,4 @@ const aboutMe 👨‍💻 = {
 };
 ```
 <h3>🛠To learn🛠</>
- <span> Redux | TypeScript | FireBase</span>
+ <p> Redux | TypeScript | FireBase</p>
