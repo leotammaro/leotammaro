@@ -1,7 +1,7 @@
 <div align="center">
    <p><strong>Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer</strong></p>
    <img 
-        src="https://media.istockphoto.com/photos/happy-senior-man-giving-thumb-up-picture-id153696622?k=6&m=153696622&s=170667a&w=0&h=YSWNzbBNnCTRCDdBKvoHZe-uzRJsVmcboM2KGdaLslM="
+        src="https://miro.medium.com/max/2400/1*VytWprd2ulmw2eIwnHMNJQ.jpeg"
         style="margin:2rem"
    </img>
 </div>
