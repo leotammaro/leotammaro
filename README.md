@@ -1,4 +1,7 @@
-### Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer 
+<div align="center">
+   Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer 
+</div>
+
 
 ```javascript
 const aboutMe 👨‍💻 = {
