@@ -26,5 +26,7 @@ let aboutMe 👨‍💻 = {
 ```
 ### 🛠To learn🛠
  Redux | TypeScript | FireBase
+ <div align="center">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotammaro&langs_count=10&theme=tokyonight&layout=compact" />
+</div>
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotammaro&langs_count=10&theme=tokyonight&layout=compact" />
