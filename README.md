@@ -9,7 +9,7 @@
 
 <br></br>
 ```javascript
-const aboutMe 👨‍💻 = {
+let aboutMe 👨‍💻 = {
    name:"Leonel",
    age: 23,
    country: "Argentina",
