@@ -1,5 +1,5 @@
 <div align="center">
-   Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer 
+   <strong>Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer</strong>
 </div>
 
 
