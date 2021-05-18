@@ -2,7 +2,7 @@
    <span><strong>Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer</strong></span>
    <img 
         src="https://media.istockphoto.com/photos/happy-senior-man-giving-thumb-up-picture-id153696622?k=6&m=153696622&s=170667a&w=0&h=YSWNzbBNnCTRCDdBKvoHZe-uzRJsVmcboM2KGdaLslM="
-        borderRadius="50%"
+        border-radius="50%"
    </img>
 </div>
 
