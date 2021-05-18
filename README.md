@@ -3,6 +3,7 @@
    <img 
         src="https://miro.medium.com/max/2400/1*VytWprd2ulmw2eIwnHMNJQ.jpeg"
         width="300px"
+        heigth="auto"
    </img>
 </div>
 
