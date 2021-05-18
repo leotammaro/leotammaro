@@ -10,7 +10,7 @@
 <br></br>
 ```javascript
 const aboutMe 👨‍💻 = {
-   name:"Leonel"
+   name:"Leonel",
    age: 23,
    country: "Argentina",
    pronouns: "he" | "him",
