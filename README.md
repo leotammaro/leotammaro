@@ -15,5 +15,5 @@ const aboutMe 👨‍💻 = {
    }    
 };
 ```
-<h3 margin-bottom="50%">🛠To learn🛠</>
+<h3 margin="50px">🛠To learn🛠</>
  <p> Redux | TypeScript | FireBase</p>
