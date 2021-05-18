@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer</h2>
+   <h2>Hi there 👋 Im trying to get my first job FrontEnd Developer</h2>
    <img 
         src="https://miro.medium.com/max/2400/1*VytWprd2ulmw2eIwnHMNJQ.jpeg"
         width="500px"
@@ -10,6 +10,7 @@
 <br></br>
 ```javascript
 const aboutMe 👨‍💻 = {
+   name:"Leonel"
    age: 23,
    country: "Argentina",
    pronouns: "he" | "him",
