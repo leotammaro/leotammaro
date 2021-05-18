@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-let leonel ={
-  pronouns : "he" || "him",
-  age: 23,
-  country : "Argentina",
-  code :[Javascript, HTML, CSS],
-  tools:[React, Cypress]
-}
+```javascript
+const Leonel = {
+   age: 23,
+   country: "Argentina"
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap","SASS"]
+      }
+      testing : ["Cypress", "Jest"]
+   }    
+};
+```
