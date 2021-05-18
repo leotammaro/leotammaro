@@ -26,6 +26,9 @@ let aboutMe 👨‍💻 = {
 ```
 ### 🛠To learn🛠
  Redux | TypeScript | FireBase
+ <br></br>
+ 
+ <h4 align="center">Top langs :tongue:</h4>
  <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotammaro&langs_count=10&theme=tokyonight&layout=compact" />
 </div>
