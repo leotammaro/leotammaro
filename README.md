@@ -3,7 +3,6 @@
    <img 
         src="https://media.istockphoto.com/photos/happy-senior-man-giving-thumb-up-picture-id153696622?k=6&m=
              153696622&s=170667a&w=0&h=YSWNzbBNnCTRCDdBKvoHZe-uzRJsVmcboM2KGdaLslM="
-        width="100px"
    </img>
 </div>
 
