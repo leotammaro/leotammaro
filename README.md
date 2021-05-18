@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Im Leonel trying to get my first job FrontEnd Developer 
 
 ```javascript
-const Leonel = {
+const aboutMe = {
    age: 23,
    country: "Argentina",
    pronouns: "he" | "him",
