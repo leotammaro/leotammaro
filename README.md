@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Hi there 👋 Im trying to get my first job as a FrontEnd Developer</h2>
+   <h2>Hi there 👋 </h2>
    <img 
         src="https://miro.medium.com/max/2400/1*VytWprd2ulmw2eIwnHMNJQ.jpeg"
         width="500px"
@@ -20,12 +20,11 @@ let aboutMe 👨‍💻 = {
          js: ["React"],
          css: ["Bootstrap","SASS"]
       },
-      testing : ["Cypress", "Jest"]
    }    
 };
 ```
 ### 🛠To learn🛠
- Redux | TypeScript | FireBase
+ Redux | TypeScript | FireBase |Testing 
  <br></br>
  
  <h4 align="center">Top langs :tongue:</h4>
