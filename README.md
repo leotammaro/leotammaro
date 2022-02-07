@@ -1,10 +1,6 @@
 <div align="center">
    <h2>Hi there 👋 </h2>
-   <img 
-        src="https://miro.medium.com/max/2400/1*VytWprd2ulmw2eIwnHMNJQ.jpeg"
-        width="500px"
-        heigth="auto"
-   </img>
+  
 </div>
 
 <br></br>
