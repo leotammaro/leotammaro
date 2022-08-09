@@ -23,8 +23,8 @@ let aboutMe 👨‍💻 = {
    }    
 };
 ```
-### 🛠To learn🛠
- Redux | TypeScript | FireBase |Testing 
+### 🛠Learning🛠
+ Redux | TypeScript |Testing 
  <br></br>
  
  <h4 align="center">Top langs :tongue:</h4>
