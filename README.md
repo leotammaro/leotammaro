@@ -16,6 +16,10 @@ let aboutMe 👨‍💻 = {
          js: ["React"],
          css: ["Bootstrap","SASS"]
       },
+      backEnd:{
+      database: "Mongo DB",
+      js:"Node JS"
+      }
    }    
 };
 ```
