@@ -26,6 +26,10 @@ let aboutMe 👨‍💻 = {
 ```
  <br></br>
  
+ <div id="header" align="center">
+  <img src="https://images.prismic.io/northcoders/3b1f3e48-98df-44e4-856b-4ad7bf25b94c_a58df3474587baa46eb81415faa143d4.gif?auto=compress%2Cformat&rect=0%2C0%2C500%2C270&w=840&h=454&fit=max&q=60" width="100"/>
+</div>
+ 
  <h4 align="center">Top langs :tongue:</h4>
  <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leotammaro&langs_count=10&theme=tokyonight&layout=compact" />
