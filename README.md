@@ -18,7 +18,7 @@ let aboutMe 👨‍💻 = {
       },
       backEnd:{
       database: ['Mongo DB', 'MYSql'],
-      js:"Node JS, Nest JS"
+      js:['Node JS', 'Nest JS']
       },
       testing:['Cypress', 'Jest', 'Supertest']
    }    
