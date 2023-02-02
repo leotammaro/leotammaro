@@ -13,14 +13,14 @@ let aboutMe 👨‍💻 = {
    code: ['Javascript', 'TypeScript'],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap","SASS"]
+         js: ['React'],
+         css: ['Bootstrap', 'SASS', 'Chakra UI']
       },
       backEnd:{
       database: ['Mongo DB', 'MYSql'],
       js:"Node JS, Nest JS"
       },
-      testing:['Cypress','Jest','Supertest']
+      testing:['Cypress', 'Jest', 'Supertest']
    }    
 };
 ```
