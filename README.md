@@ -6,25 +6,24 @@
 <br></br>
 ```javascript
 let aboutMe 👨‍💻 = {
-   name:"Leonel",
-   age: 23,
-   country: "Argentina",
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   name:'Leonel',
+   age: 24,
+   country: 'Argentina',
+   pronouns: 'he' | 'him',
+   code: ['Javascript', 'TypeScript'],
    technologies: {
       frontEnd: {
          js: ["React"],
          css: ["Bootstrap","SASS"]
       },
       backEnd:{
-      database: "Mongo DB",
-      js:"Node JS"
-      }
+      database: ['Mongo DB', 'MYSql'],
+      js:"Node JS, Nest JS"
+      },
+      testing:['Cypress','Jest','Supertest']
    }    
 };
 ```
-### 🛠Learning🛠
- Redux | TypeScript |Testing 
  <br></br>
  
  <h4 align="center">Top langs :tongue:</h4>
