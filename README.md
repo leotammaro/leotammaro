@@ -4,7 +4,8 @@
 </div>
 
  <div id="header" align="center">
-  <img src="https://images.prismic.io/northcoders/3b1f3e48-98df-44e4-856b-4ad7bf25b94c_a58df3474587baa46eb81415faa143d4.gif?auto=compress%2Cformat&rect=0%2C0%2C500%2C270&w=840&h=454&fit=max&q=100" width="400"/>
+  ![how-to-start](https://user-images.githubusercontent.com/52765886/216260766-fdf4e237-ea0e-4f85-bcbf-22e2d46bc900.gif)
+
 </div>
 
 <br></br>
