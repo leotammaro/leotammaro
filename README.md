@@ -13,7 +13,7 @@
 ```javascript
 let aboutMe 👨‍💻 = {
    name:'Leonel',
-   age: 24,
+   age: 25,
    country: 'Argentina',
    pronouns: 'he' | 'him',
    code: ['Javascript', 'TypeScript'],
