@@ -24,10 +24,12 @@ let aboutMe 👨‍💻 = {
       },
       backEnd:{
       database: ['Mongo DB', 'MYSql'],
+      orm: ['typeORM', 'Sequelize'],
       js:['Node JS', 'Nest JS']
       },
-      testing:['Cypress', 'Jest', 'Supertest']
-   }    
+      testing:['Cypress', 'Jest', 'Supertest'],
+      AWS: ['RDS', 'Cognito', 'Amplify', 'App Runner']
+   }   
 };
 ```
  <br></br>
